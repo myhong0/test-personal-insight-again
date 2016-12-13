@@ -4,7 +4,7 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: PersonalityInsights-Java
-  host: iw-personalityinsights-demo
+  host: myhong-personalityinsights-demo-201612
   disk_quota: 1024M
   services:
   - PersonalityInsights-personality_insights
